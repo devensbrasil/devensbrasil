@@ -5,7 +5,7 @@
 
 <hr>
 
-<img align="right" src="https://greenpng.com/wp-content/uploads/2020/09/untitleddesign_1_original-192.png" width="250"/>
+<a href="https://github.com/devensbrasil"><img align="right" src="https://greenpng.com/wp-content/uploads/2020/09/untitleddesign_1_original-192.png" width="250"/></a>
 
 Seja bem-vindo ao GitHub do Devens Brasil!
 Aqui você poderá encontrar alguns dos nossos projetos
@@ -18,7 +18,7 @@ Esperamos que este respositório seja de grande utilidade e incentivo
 para as pessoas que não sabem nem por onde começar.
 
 Se você quiser, entre no nosso servidor <a href="#">Discord</a>,
-lá você poderá tirar dúvidas, fazer amizade, interagir e
+lá você poderá tirar dúvidas, fazer amizades, interagir e
 divulgar seu trabalho.
 
 > Seja rápido e eficaz como um raio!
