@@ -12,11 +12,14 @@ Aqui você poderá encontrar alguns dos nossos projetos
 que disponibilizamos para as pessoas se inspirarem e poderem
 desenvolverem suas próprias aplicações.
 
-Somos uma comunidade empenhada em ajudas pessoas do ramo de programação.
+Somos uma comunidade empenhada em ajudar pessoas do ramo de programação
+a evoluirem e desenvolverem seus conhecimentos.
 Esperamos que este respositório seja de grande utilidade e incentivo
-para as pessoas que não sabe nem por onde começar.
+para as pessoas que não sabem nem por onde começar.
 
-Se você quiser, entre no nosso servidor <a href="#">Discord</a>
+Se você quiser, entre no nosso servidor <a href="#">Discord</a>,
+lá você poderá tirar dúvidas, fazer amizade, interagir e
+divulgar seu trabalho.
 
 > Seja rápido e eficaz como um raio!
 
