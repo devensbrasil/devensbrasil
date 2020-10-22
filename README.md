@@ -16,4 +16,4 @@ Somos uma comunidade empenhada em ajudas pessoas do ramo de programação.
 Esperamos que este respositório seja de grande utilidade e incentivo
 para as pessoas que não sabe nem por onde começar.
 
-Se você quiser, entre no nosso servidor <a href="#">Discord</a>
+Se você quiser, entre no nosso servidor __Discord__
